@@ -25,9 +25,7 @@ source ~/.bashrc
 
 # --- 5. Установка инструментов сборки Python ---
 sudo apt install python3-pip -y
-
 pip3 install setuptools --break-system-packages
-
 sudo apt install python3-colcon-common-extensions -y
 
 # --- 6. Проверка ---
